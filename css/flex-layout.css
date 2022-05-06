@@ -1,0 +1,136 @@
+@charset "utf-8";
+
+h2 {
+  background-color: cornflowerblue;
+  color: white;
+  margin: 1rem;
+  padding: 1rem;
+  border-left: 1rem black;
+}
+
+h3 {
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.main {
+  max-width: 960px;
+  width:100%; 
+}
+
+.flex {
+  display: flex;
+  background-color: gainsboro;
+  padding: 2rem;
+  margin: 2rem;
+}
+
+.flex div {
+  background-color: darkcyan;
+  border: 1px solid;
+  padding: 2rem;
+}
+
+.flex .fsb {
+  font-size: 3em;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.flex-space-around {
+  justify-content: space-around;
+}
+
+.flex-space-between {
+  justify-content: space-between;
+}
+
+.stretch {
+  align-items: stretch;
+}
+
+.flex-start {
+  align-items: flex-start;
+}
+
+.flex-end-align {
+  align-items: flex-end;
+}
+
+.center-align {
+  align-items: center;
+}
+
+.baseline {
+  align-items: baseline;
+}
+
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-column-reverse {
+  flex-direction: column-reverse;
+}
+
+.content {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: gainsboro;
+}
+
+.content .header {
+  background-color: red;
+  width: 100%;
+}
+
+.multicolumn {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  height: 300px;
+}
+
+.multicolumn .first {
+  background-color: aquamarine;
+  width: 100%;
+}
+
+.multicolumn .second {
+  background-color: blueviolet;
+  width: 100%;
+}
+
+.footer {
+  background-color: burlywood;
+}
