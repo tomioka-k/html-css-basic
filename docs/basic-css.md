@@ -1,5 +1,7 @@
 # CSS基礎
 
+[サンプルページ](https://tomioka-k.github.io/html-css-basic/content/basic-css.html)
+
 ## CSSをhtmlに組み込む方法
 
 - インライン

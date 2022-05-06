@@ -1,7 +1,7 @@
 
 # HTML文書構造
 
-[サンプルページ](../source/basic-html.html)
+[サンプルページ](https://tomioka-k.github.io/html-css-basic/content/basic-html.html)
 
 ## 見出し
 

@@ -1,6 +1,6 @@
 # flexboxレイアウト
 
-[サンプルファイル](../content/flex-layout.html)
+[サンプルページ](https://tomioka-k.github.io/html-css-basic/content/flex-layout.html)
 
 `flexbox`を使用する際には親要素に`display: flex`を指定する。
 
